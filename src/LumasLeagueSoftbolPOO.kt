@@ -3,7 +3,7 @@
  * Semestre: Febrero-Julio 2022
  * Asignatura: Desarrolla aplicaciones móviles
  * Profesor: Bidkar Aragón Cárdenas
- * Alumno(a): ?
+ * Alumno(a): Luma puro Janet
  * Fecha: 04/03/22 10:08
  * Grupo: 6AV-PR
  */
