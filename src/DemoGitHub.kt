@@ -12,7 +12,8 @@
 fun main() {
     println("Hola mundo de Git y GitHub")
     println("Adios mundo de Git y GitHub")
-    println("Me caen gordos los copiones por lo " +
+    println("Me caen muy gordos los copiones por lo " +
             "que el profe nos hizo usar " +
             "Git y GitHub")
+    println("La neta se pasaron los copiones")
 }
